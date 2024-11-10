@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+file:/D:/31_CWD_SPRING_BOOT/Electronic_Store_Backend_Latest_lyst4711/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
